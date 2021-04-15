@@ -6,7 +6,7 @@
             <img :src="item.image" :title="item.title" >
           </div>
           <div class="dtl">
-            <h1>{{item.title}}</h1>
+            <h3>{{item.title}}</h3>
           </div>
         </li>
       </ul>
